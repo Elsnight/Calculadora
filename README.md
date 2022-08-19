@@ -17,4 +17,5 @@ EVIDENCIAS DE LA APP
 
 <img src="https://i.ibb.co/mTS5qDZ/Whats-App-Image-2022-08-18-at-20-54-51.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/YQZMX11/Whats-App-Image-2022-08-18-at-20-54-52.jpg"  alt="drawing" width="200"/>
-![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
+<img src="https://i.ibb.co/BGnWcXJ/giphy.gif"  alt="drawing" width="200"/>
+
