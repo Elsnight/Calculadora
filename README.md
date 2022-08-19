@@ -17,5 +17,4 @@ EVIDENCIAS DE LA APP
 
 <img src="https://i.ibb.co/mTS5qDZ/Whats-App-Image-2022-08-18-at-20-54-51.jpg" alt="drawing" width="200"/>
 <img src="https://i.ibb.co/YQZMX11/Whats-App-Image-2022-08-18-at-20-54-52.jpg"  alt="drawing" width="200"/>
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
-
+![Data](https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg)
